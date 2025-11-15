@@ -19,3 +19,4 @@ c) Walk through key Visuals
 d) Business Imapct & Insights
 
 5.Screenshots/Demos
+       https://github.com/bhagwatrampure-cmd/Insurance-Analytics/blob/main/Insurance%20Dashboard.png
